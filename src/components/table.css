@@ -1,0 +1,18 @@
+.Table{
+    text-align: center;
+    color: #7c72db;
+    border: yellow solid 2px;
+}
+.Table-header{
+    background-color: rgb(240, 234, 227);
+    border: yellow solid 2px;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    color: royalblue;
+}
+.Table-body{
+    background-color: silver;
+    border: yellow solid 2px;
+    color: rgb(238, 54, 9);
+}
